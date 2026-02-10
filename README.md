@@ -464,6 +464,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Art and literature services.
 
+- [IcoGenie MCP](https://github.com/albertnahas/icogenie) - AI-powered SVG icon generation MCP server. Generate production-ready SVG icons from text descriptions with customizable styles.
 - <img src="https://openlibrary.org/static/images/openlibrary-logo-tighter.svg" height="14"/> [MCP Open Library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
 
 <br />
